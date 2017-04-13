@@ -1,0 +1,13 @@
+.header {
+  width: 100%;
+  line-height: 50px;
+  font-size: 20px;
+  background: dodgerblue;
+  text-align: center;
+  color: #ffffff;
+}
+.header span {
+  color: #ff4400;
+  font-size: 24px;
+  font-weight: bold;
+}
